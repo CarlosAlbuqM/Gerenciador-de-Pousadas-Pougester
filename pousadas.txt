@@ -1,0 +1,30 @@
+Pousada Pão de Circo|10.0|Maceió|Rua belarmino, 234|3
+Pousada Central|80.0|Rio Branco|Rua das Palmeiras, 123|10
+Pousada Boa Vista|90.0|Maceió|Av. Beira Mar, 456|12
+Pousada Norte|85.0|Macapá|Rua Tucuju, 789|8
+Pousada do Sol|95.0|Manaus|Travessa Amazonas, 101|15
+Pousada Central Sul|100.0|Salvador|Rua Pelourinho, 202|20
+Pousada do Cerrado|90.0|Brasília|Quadra 101 Bloco A|14
+Pousada das Palmeiras|70.0|Fortaleza|Av. Praia do Futuro, 333|10
+Pousada do Sertão|60.0|João Pessoa|Rua do Sol, 77|9
+Pousada Beira Rio|88.0|Teresina|Rua Rio Parnaíba, 55|7
+Pousada Atlântico|92.0|Recife|Av. Boa Viagem, 888|11
+Pousada Lago Azul|75.0|Natal|Rua das Dunas, 11|10
+Pousada do Mar|110.0|Aracaju|Av. Orla de Atalaia, 909|12
+Pousada do Planalto|105.0|Goiânia|Rua Central, 300|13
+Pousada São Pedro|85.0|Cuiabá|Av. Pantanal, 22|8
+Pousada Pantanal|95.0|Campo Grande|Rua Verde, 45|10
+Pousada Pôr do Sol|90.0|Belo Horizonte|Rua das Acácias, 88|16
+Pousada do Centro|100.0|Vitória|Av. Vitória Centro, 11|9
+Pousada do Café|130.0|São Paulo|Rua Augusta, 700|25
+Pousada Bela Vista|120.0|Rio de Janeiro|Rua Copacabana, 10|20
+Pousada Serra Alta|110.0|Curitiba|Av. das Araucárias, 321|13
+Pousada Lagoa Verde|105.0|Florianópolis|Rua da Lagoa, 222|14
+Pousada Coração do Sul|115.0|Porto Alegre|Av. Farrapos, 1001|17
+Pousada do Pará|95.0|Belém|Trav. Nazaré, 600|10
+Pousada Tocantins|80.0|Palmas|Rua Tocantins, 51|6
+Pousada Roraima|70.0|Boa Vista|Av. Roraima, 44|5
+Pousada Amapá|78.0|Porto Velho|Rua do Porto, 303|7
+Pousada do Pato|30.4|Recife|Avenida nossa senhora do mar. 314|3
+Pousada do Pastel|30.03|Ubatuba|Av nossa paz do amor, 323|10
+Pousada do Lira|2.4|Biu|Av sorriso, 177|300
